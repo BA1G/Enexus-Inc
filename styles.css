@@ -1,0 +1,113 @@
+body{
+    margin: 0;
+    font-family: "Lato";
+}
+
+nav{
+    font-family: "montserrat"; 
+}
+
+#main-page{
+    font-family: "Montserrat";
+    text-align: center;
+    padding: 14% 7%;
+    background-image: url(Main-pg-img.png);
+    background-size: 100% 100%;
+}
+
+.main-pg-h1{
+    font-weight: 900;
+    color: blue;
+    font-size: 50px;
+}
+
+.main-pg-h2{
+    font-weight: 700;
+    font-size: 25px;
+    color: lightg;
+}
+
+.main-pg-h6{
+    font-weight: 600;
+    color: black;
+}
+
+#services{
+    background-color: #eaf6f6;
+    text-align: center;
+    padding: 10% 5%;
+    background-color: white;
+}
+
+.services-h1{
+    font-weight: 700;
+    font-size: 40px;
+    }
+
+.s-img{
+    width: 60px;
+}
+
+#contact{
+    text-align: center;
+    padding: 10% 5%;
+    background-image: url(Health-sector.png);
+    background-size: 100% 100%;
+}
+
+.contact-h2{
+    font-size: 40px;
+    font-weight: 900;
+    margin: 0 0 5% 0%;
+}
+
+.contact-box{   
+    border-radius: 20px;
+    background-color: #eaf6f6;
+    background-size: 100% 100%;
+    font-family: "crimson text";
+    color: black;
+    margin: auto;
+    width: 100%;
+}
+
+.email{
+    text-decoration: none;
+}
+
+#about{
+    background-color: white;
+    text-align: center;
+    padding: 10% 6%;
+}
+
+.about-t{
+    font-size: 25px;
+}
+
+.blue{
+    color: blue;
+}
+
+.Beauty{
+    height: 30%;
+    width: 100%;   
+}
+
+#photo{
+    text-align: center;
+    padding: 10% 5%;
+    background-size: 100% 100%;
+}
+
+footer{
+    text-align: center;
+}
+
+.developer{
+    margin-bottom: 3%;
+}
+
+.BAIG{
+    text-decoration: none;  
+}
